@@ -1,0 +1,33 @@
+{
+  "name": "layout-design",
+  "version": "1.0.0",
+  "description": "Maquetación UX con HTML5, CSS3, JavaScript ES6+; acerca de diseños definidos",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:CristianBonilla/layout-design.git"
+  },
+  "author": {
+    "name": "Cristian Bonilla",
+    "email": "cristiancamilo10_95@outlook.com",
+    "url": "https://www.linkedin.com/in/cristian-camilo-bonilla-20732516b"
+  },
+  "license": "MIT",
+  "private": true,
+  "engines": {
+    "node": ">=11.0.0 <12.0.0",
+    "npm": ">=6.7.0 <6.9.0",
+    "yarn": ">=1.17.0"
+  },
+  "dependencies": {
+    "bootstrap": "^4.3.1",
+    "jquery": "^3.4.1",
+    "popper.js": "^1.15.0"
+  },
+  "devDependencies": {
+    "cross-env": "^6.0.0",
+    "node-sass": "^4.12.0",
+    "typescript": "^3.6.3",
+    "webpack": "^4.41.0",
+    "webpack-dev-server": "^3.8.1"
+  }
+}
